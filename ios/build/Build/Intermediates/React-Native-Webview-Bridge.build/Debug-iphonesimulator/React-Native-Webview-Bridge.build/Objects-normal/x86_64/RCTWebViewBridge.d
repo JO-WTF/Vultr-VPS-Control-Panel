@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/JOE/Vultr/node_modules/react-native-webview-bridge/ios/RCTWebViewBridge.m \
+  /Users/JOE/Vultr/node_modules/react-native-webview-bridge/ios/RCTWebViewBridge.h \
+  ../../../node_modules/react-native/React/Views/RCTView.h \
+  ../../../node_modules/react-native/React/Views/RCTBorderStyle.h \
+  ../../../node_modules/react-native/React/Views/RCTComponent.h \
+  ../../../node_modules/react-native/React/Views/RCTPointerEvents.h \
+  ../../../node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  ../../../node_modules/react-native/React/Base/RCTConvert.h \
+  ../../../node_modules/react-native/React/Layout/Layout.h \
+  ../../../node_modules/react-native/React/Views/RCTAnimationType.h \
+  ../../../node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  ../../../node_modules/react-native/React/Base/RCTDefines.h \
+  ../../../node_modules/react-native/React/Base/RCTLog.h \
+  ../../../node_modules/react-native/React/Base/RCTAssert.h \
+  ../../../node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  ../../../node_modules/react-native/React/Base/RCTBridge.h \
+  ../../../node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  ../../../node_modules/react-native/React/Base/RCTBridgeModule.h \
+  ../../../node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  ../../../node_modules/react-native/React/Base/RCTInvalidating.h \
+  ../../../node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  ../../../node_modules/react-native/React/Base/RCTUtils.h \
+  ../../../node_modules/react-native/React/Views/UIView+React.h

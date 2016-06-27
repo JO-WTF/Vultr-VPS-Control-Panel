@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/JOE/Vultr/node_modules/react-native-controllers/ios/RCCManagerModule.m \
+  /Users/JOE/Vultr/node_modules/react-native-controllers/ios/RCCManagerModule.h \
+  ../../react-native/React/Base/RCTBridgeModule.h \
+  ../../react-native/React/Base/RCTDefines.h \
+  /Users/JOE/Vultr/node_modules/react-native-controllers/ios/RCCManager.h \
+  /Users/JOE/Vultr/node_modules/react-native-controllers/ios/RCCNavigationController.h \
+  ../../react-native/React/Base/RCTBridge.h \
+  ../../react-native/React/Base/RCTBridgeDelegate.h \
+  ../../react-native/React/Base/RCTFrameUpdate.h \
+  ../../react-native/React/Base/RCTInvalidating.h \
+  ../../react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/JOE/Vultr/node_modules/react-native-controllers/ios/RCCViewController.h \
+  /Users/JOE/Vultr/node_modules/react-native-controllers/ios/RCCDrawerController/RCCDrawerController.h \
+  /Users/JOE/Vultr/node_modules/react-native-controllers/ios/RCCDrawerController/MMDrawerController/MMDrawerController.h \
+  /Users/JOE/Vultr/node_modules/react-native-controllers/ios/RCCDrawerController/RCCDrawerProtocol.h \
+  /Users/JOE/Vultr/node_modules/react-native-controllers/ios/RCCLightBox.h \
+  ../../react-native/React/Base/RCTConvert.h \
+  ../../react-native/React/Layout/Layout.h \
+  ../../react-native/React/Views/RCTAnimationType.h \
+  ../../react-native/React/Views/RCTBorderStyle.h \
+  ../../react-native/React/Views/RCTTextDecorationLineType.h \
+  ../../react-native/React/Base/RCTLog.h \
+  ../../react-native/React/Base/RCTAssert.h \
+  ../../react-native/React/Views/RCTPointerEvents.h \
+  /Users/JOE/Vultr/node_modules/react-native-controllers/ios/RCCTabBarController.h \
+  /Users/JOE/Vultr/node_modules/react-native-controllers/ios/RCCDrawerController/RCCTheSideBarManagerViewController.h \
+  /Users/JOE/Vultr/node_modules/react-native-controllers/ios/RCCDrawerController/TheSidebarController/TheSidebarController.h \
+  /Users/JOE/Vultr/node_modules/react-native-controllers/ios/RCCDrawerController/TheSidebarController/Animations/SidebarAnimation.h
